@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ 
+# Notebooks / OS / editor
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+ 
+# NOTE: do NOT ignore models/ or data/ - the deployed app needs them.
+ 

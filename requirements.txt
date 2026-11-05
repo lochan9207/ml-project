@@ -1,0 +1,11 @@
+# TODO: pin exact versions (e.g. scikit-learn==1.5.2) using your own `pip freeze`
+# output. The saved .joblib models can break if scikit-learn versions differ.
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+shap
+ 
