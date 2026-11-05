@@ -79,3 +79,12 @@ SHAP explanations show associations in the model, not causes.
 Fairness results on a small test set can be noisy, so treat them as warning signals, not proof of bias.
 Predictions can be wrong and may reflect bias in historical data.
 Use predictions to prompt supportive help, not as a final judgment about ability or future success.
+
+
+
+## Screenshots
+![At Risk prediction](screenshots/01_predict_at_risk.png)
+![Not At Risk prediction](screenshots/02_predict_not_at_risk.png)
+![Data charts](screenshots/06_data_charts.png)
+![Model evaluation](screenshots/07_model_evaluation.png)
+![About and limitations](screenshots/08_about.png)
